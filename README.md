@@ -18,5 +18,5 @@ To run the model you should open ```NN Model.ipynb```
 
 ###### Binary Accuracy and Losses Graphics
 
-![binary_acc](report/epoch_binary_acc.png)
-![loss](report/epoch_loss.png)
+![binary_acc](report/epoch_binary_acc.jpg)
+![loss](report/epoch_loss.jpg)
